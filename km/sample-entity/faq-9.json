@@ -1,0 +1,16 @@
+{
+  "$id": "faq-9",
+  "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
+  "entityType": "faq",
+  "content": {
+    "c_primaryCTA": {
+      "label": "Learn More",
+      "url": "http://www.turtleheadtacos.com/team"
+    },
+    "yext.answer": "The executive chef is none other than Matt Samani.",
+    "yext.keywords": [
+      "chef"
+    ],
+    "yext.name": "Who is the executive chef at Turtlehead Tacos?"
+  }
+}

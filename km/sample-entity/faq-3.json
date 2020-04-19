@@ -1,0 +1,16 @@
+{
+  "$id": "faq-3",
+  "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
+  "entityType": "faq",
+  "content": {
+    "c_primaryCTA": {
+      "label": "View Menu",
+      "url": "http://www.turtleheadtacos.com/menu"
+    },
+    "yext.answer": "Yes, we offer gluten-free options! We have gluten-free tacos and quesadillas as well as gluten-free nachos.",
+    "yext.keywords": [
+      "gluten-free"
+    ],
+    "yext.name": "Do you offer any gluten-free options?"
+  }
+}
