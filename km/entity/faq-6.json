@@ -1,0 +1,18 @@
+{
+  "$id": "faq-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "entityType": "yext/faq",
+  "content": {
+    "c_primaryCTA": {
+      "label": "Apply Now",
+      "url": "http://careers.turtleheadtacos.com"
+    },
+    "yext/answer": "We offer our employees a wide range of benefits. In addition, we have a company culture of learn fast, think big and get stuff done. We want to help employees grow in their careers.",
+    "yext/keywords": [
+      "perks",
+      "career",
+      "jobs"
+    ],
+    "yext/name": "What are the perks of working at Turtlehead Tacos?"
+  }
+}
