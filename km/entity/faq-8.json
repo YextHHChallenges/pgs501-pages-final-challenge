@@ -1,11 +1,11 @@
 {
   "$id": "faq-8",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/faq",
   "content": {
     "c_primaryCTA": {
       "label": "Apply Now",
-      "url": "http://careers.turtleheadtacos.com"
+      "link": "http://careers.turtleheadtacos.com",
+      "linkType": "URL"
     },
     "yext/answer": "While you are welcome to do so, we do not require a cover letter for any positions. If you feel that it would help to inform any Recruiting Managers about why you are uniquely qualified for the position, feel free to include and we promise to you that we will read it.",
     "yext/keywords": [
@@ -13,5 +13,7 @@
       "jobs"
     ],
     "yext/name": "Do I need to submit a cover letter?"
-  }
+  },
+  "entityType": "yext/faq",
+  "labels": []
 }

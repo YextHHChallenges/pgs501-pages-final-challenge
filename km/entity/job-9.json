@@ -1,7 +1,6 @@
 {
   "$id": "job-9",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/job",
   "content": {
     "c_benefits": [
       "Medical and Dental insurance plans",
@@ -43,5 +42,8 @@
     "yext/hiringOrganization": "Turtlehead Tacos Restaurant",
     "yext/jobLocation": "7",
     "yext/name": "Check-in Coordinator"
-  }
+  },
+  "entityType": "yext/job",
+  "folder": "4d637a323cab4d9b8b38a721c33ff119",
+  "labels": []
 }

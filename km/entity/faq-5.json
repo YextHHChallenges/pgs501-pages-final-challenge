@@ -1,16 +1,18 @@
 {
   "$id": "faq-5",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/faq",
   "content": {
     "c_primaryCTA": {
       "label": "Search for Nearby Restaurants",
-      "url": "http://answers.turtleheadtacos.com"
+      "link": "http://answers.turtleheadtacos.com",
+      "linkType": "URL"
     },
     "yext/answer": "We deliver! Visit our Order Now page (link below) to place an order.",
     "yext/keywords": [
       "delivery"
     ],
     "yext/name": "Do you offer delivery?"
-  }
+  },
+  "entityType": "yext/faq",
+  "labels": []
 }

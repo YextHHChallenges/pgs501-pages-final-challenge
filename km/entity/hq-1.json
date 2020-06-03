@@ -1,7 +1,6 @@
 {
   "$id": "hq-1",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/location",
   "content": {
     "yext/address": {
       "city": "Austin",
@@ -14,5 +13,7 @@
     "yext/mainPhone": "+18004155555",
     "yext/name": "Turtlehead Tacos Headquarters",
     "yext/timezone": "America/Chicago"
-  }
+  },
+  "entityType": "yext/location",
+  "labels": []
 }

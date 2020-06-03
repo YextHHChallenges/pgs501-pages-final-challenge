@@ -1,15 +1,15 @@
 {
   "$id": "event",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/event",
   "enabled": true,
+  "entityType": "yext/event",
   "field": [
     {
-      "id": "featuredGuests",
+      "id": "c_featuredGuests",
       "required": false
     },
     {
-      "id": "primaryCTA",
+      "id": "c_primaryCTA",
       "required": false
     }
   ]

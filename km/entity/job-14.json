@@ -1,7 +1,6 @@
 {
   "$id": "job-14",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/job",
   "content": {
     "c_benefits": [
       "Medical and Dental insurance plans",
@@ -43,5 +42,8 @@
     "yext/hiringOrganization": "Turtlehead Tacos",
     "yext/jobLocation": "hq-1",
     "yext/name": "Financial Accountant"
-  }
+  },
+  "entityType": "yext/job",
+  "folder": "724c93c0be914be690256c284d268a05",
+  "labels": []
 }
