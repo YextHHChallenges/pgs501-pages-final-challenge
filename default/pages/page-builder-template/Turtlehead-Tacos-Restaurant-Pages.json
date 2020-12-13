@@ -1,5 +1,5 @@
 {
-  "$id": "Turtlehead_Tacos_Restaurant_Pages",
+  "$id": "Turtlehead-Tacos-Restaurant-Pages",
   "$schema": "https://schema.yext.com/config/pages/page-builder-template/v1",
   "EntityTypeName": "restaurant",
   "PageSetConfig": {
