@@ -7,14 +7,14 @@
       "link": "http://careers.turtleheadtacos.com",
       "linkType": "URL"
     },
-    "yext/answer": "We offer our employees a wide range of benefits. In addition, we have a company culture of learn fast, think big and get stuff done. We want to help employees grow in their careers.",
-    "yext/keywords": [
+    "answer": "We offer our employees a wide range of benefits. In addition, we have a company culture of learn fast, think big and get stuff done. We want to help employees grow in their careers.",
+    "keywords": [
       "perks",
       "career",
       "jobs"
     ],
-    "yext/name": "What are the perks of working at Turtlehead Tacos?"
+    "name": "What are the perks of working at Turtlehead Tacos?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": []
 }

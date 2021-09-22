@@ -1,7 +1,7 @@
 {
   "$id": "ce_job",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
-  "entityType": "yext/job",
+  "entityType": "job",
   "displayName": "Job",
   "presentationEntries": [
     {
@@ -121,17 +121,17 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/location"
+          "id": "location"
         },
         {
-          "id": "yext/hiringOrganization"
+          "id": "hiringOrganization"
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         }
       ]
@@ -195,19 +195,19 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/description"
+          "id": "description"
         },
         {
-          "id": "yext/datePosted"
+          "id": "datePosted"
         },
         {
-          "id": "yext/validThrough"
+          "id": "validThrough"
         },
         {
-          "id": "yext/employmentType"
+          "id": "employmentType"
         },
         {
-          "id": "yext/workRemote"
+          "id": "workRemote"
         }
       ]
     },
@@ -254,7 +254,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/logo"
+          "id": "logo"
         },
         {
           "id": "c_jobDepartment"
@@ -332,7 +332,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/keywords"
+          "id": "keywords"
         }
       ]
     },
@@ -379,10 +379,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/applicationUrl"
+          "id": "applicationUrl"
         },
         {
-          "id": "yext/landingPageUrl"
+          "id": "landingPageUrl"
         }
       ]
     },
@@ -503,13 +503,13 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         },
         {
-          "id": "yext/timezone"
+          "id": "timezone"
         }
       ]
     },
@@ -594,10 +594,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/primaryConversationContact"
+          "id": "primaryConversationContact"
         },
         {
-          "id": "yext/nudgeEnabled"
+          "id": "nudgeEnabled"
         }
       ]
     }

@@ -7,12 +7,12 @@
       "link": "http://answers.turtleheadtacos.com",
       "linkType": "URL"
     },
-    "yext/answer": "We deliver! Visit our Order Now page (link below) to place an order.",
-    "yext/keywords": [
+    "answer": "We deliver! Visit our Order Now page (link below) to place an order.",
+    "keywords": [
       "delivery"
     ],
-    "yext/name": "Do you offer delivery?"
+    "name": "Do you offer delivery?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": []
 }

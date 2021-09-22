@@ -34,7 +34,7 @@
     }
   },
   "entityTypes": [
-    "yext/job"
+    "job"
   ],
   "name": "New Jobs",
   "$id": "newJobs"

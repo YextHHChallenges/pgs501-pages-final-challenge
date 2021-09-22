@@ -7,12 +7,12 @@
       "link": "http://www.turtleheadtacos.com/menu",
       "linkType": "URL"
     },
-    "yext/answer": "Yes, we offer gluten-free options! We have gluten-free tacos and quesadillas as well as gluten-free nachos.",
-    "yext/keywords": [
+    "answer": "Yes, we offer gluten-free options! We have gluten-free tacos and quesadillas as well as gluten-free nachos.",
+    "keywords": [
       "gluten-free"
     ],
-    "yext/name": "Do you offer any gluten-free options?"
+    "name": "Do you offer any gluten-free options?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": []
 }

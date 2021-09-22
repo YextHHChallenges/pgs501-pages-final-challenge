@@ -7,13 +7,13 @@
       "link": "http://www.turtleheadtacos.com/giftcard",
       "linkType": "URL"
     },
-    "yext/answer": "Absolutely! What better gift is there than the gift of tacos? Also for a limited time, we are offering a $5 Bonus Card to all Gift Card Purchases!",
-    "yext/keywords": [
+    "answer": "Absolutely! What better gift is there than the gift of tacos? Also for a limited time, we are offering a $5 Bonus Card to all Gift Card Purchases!",
+    "keywords": [
       "gift card"
     ],
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com/giftcard",
-    "yext/name": "Do you sell gift cards?"
+    "landingPageUrl": "http://www.turtleheadtacos.com/giftcard",
+    "name": "Do you sell gift cards?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": []
 }

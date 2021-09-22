@@ -7,14 +7,14 @@
       "link": "private-events@turtleheadtacos.com",
       "linkType": "EMAIL"
     },
-    "yext/answer": "We\u0027d love to help with your next big event, whether it\u0027s in-restaurant dining or a catering event! We host birthday parties, anniversaries, engagements, rehearsal dinners, family get-togethers and more! For catering, we can deliver bulk orders to you just in time for the event, along with all the platters and heating accessories. Contact our private events department for assistance.",
-    "yext/keywords": [
+    "answer": "We\u0027d love to help with your next big event, whether it\u0027s in-restaurant dining or a catering event! We host birthday parties, anniversaries, engagements, rehearsal dinners, family get-togethers and more! For catering, we can deliver bulk orders to you just in time for the event, along with all the platters and heating accessories. Contact our private events department for assistance.",
+    "keywords": [
       "catering",
       "private events",
       "big groups"
     ],
-    "yext/name": "Who do I contact for large party reservations or catering?"
+    "name": "Who do I contact for large party reservations or catering?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": []
 }
