@@ -1,21 +1,14 @@
 {
-  "$id": "c_jobQualifications",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Job Qualifications",
-  "group": "NONE",
-  "localization": "PRIMARY_ONLY",
-  "type": {
-    "richTextType": {
-      "supportedFormat": [
-        "UNDERLINE",
-        "BULLETED_LIST",
-        "HYPERLINK",
-        "BOLD",
-        "ITALICS",
-        "NUMBERED_LIST"
-      ]
-    }
-  },
-  "typeId": "richText"
+    "$id": "c_jobQualifications",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "description": "",
+    "displayName": "Job Qualifications",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "type": {
+        "markdownType": {
+            "maxLength": 100000
+        }
+    },
+    "typeId": "markdown"
 }
