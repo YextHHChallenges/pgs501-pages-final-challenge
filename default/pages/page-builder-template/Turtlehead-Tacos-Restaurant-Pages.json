@@ -536,7 +536,7 @@
               "ExternalEntityId": "faq-1",
               "InputType": "",
               "SelectedField": [
-                "answer"
+                "answerV2"
               ],
               "Sink": "answerText"
             },
